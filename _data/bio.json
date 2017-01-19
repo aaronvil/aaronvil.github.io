@@ -73,7 +73,7 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
       "area": "Computer Engineering (expected Spring, 2018)",
       "studyType": "B.S.",
       "startDate": "2013-09-01",
@@ -81,7 +81,26 @@
       "gpa": "",
       "courses": [
       ]
-    }
+    },
+    {
+      "institution": "University of Maryland University College, Misawa AFB, Japan",
+      "area": "Undecided",
+      "studyType": "B.S.",
+      "startDate": "2012-01-18",
+      "endDate": "2013-05-20",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Robert D. Edgren Highschool, Misawa AFB, Japan",
+      "studyType": "HighSchool",
+      "startDate": "2009-09",
+      "endDate": "2011-05",
+      "gpa": "",
+      "courses": [
+      ]
+    },
   ],
   "work": [
     {
@@ -92,7 +111,25 @@
       "endDate": "Present",
       "summary": "Student developer",
       "highlights": []
-    }
+    },
+    {
+      "company": "AAFES",
+      "position": "Food Service Worker",
+      "website": "",
+      "startDate": "2014-04",
+      "endDate": "2015-10",
+      "summary": "Baskin Robins Worker",
+      "highlights": []
+    },
+    {
+      "company": "Dodea",
+      "position": "Bus Monitor",
+      "website": "",
+      "startDate": "2012-1",
+      "endDate": "2013-5",
+      "summary": "Bus Monitor",
+      "highlights": []
+    },
   ],
   "volunteer": [],
   "awards": [],
