@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/uh-logo.png
 title: DCmd
 permalink: projects/micromouse
 date: 2016
