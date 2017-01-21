@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/droneTech.jpg
+image: images/dronetech.jpg
 title: Drone Technologies
 permalink: projects/dronetech
 date: 2016
