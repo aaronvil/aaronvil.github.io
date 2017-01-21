@@ -1,10 +1,11 @@
 ---
 layout: essay
 type: essay
-title: The difficult things will always be difficult
-date: 2016-02-06
+title: reflectionJavascript
+date: 2017-01-20
 labels:
-  - Engineering
+  - Javascript
+  - Learning
 ---
 
 I am somewhat familiar with dealing with javascript, seeing it in other projects but never really fully understand the concepts of javascript. I have used it for hiding certain data in a table or buttons if a certain condition has been met. I have also had some familiarity with ES5 javascript when learning about Angular 2 that I was using for one of my projects for work.
