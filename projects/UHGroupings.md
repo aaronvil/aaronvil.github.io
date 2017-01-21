@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/its_logo.gif 
+image: images/ 	uhgroupingslong.jpg
 title: UH Groupings
 permalink: projects/UHGroupings
 date: 2016
