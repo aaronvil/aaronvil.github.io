@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/uh-logo.png
 title: DCmd
-permalink: projects/micromouse
+permalink: projects/dcmd
 date: 2016
 labels:
   - Database
@@ -19,4 +19,4 @@ Data Center Meta Data is a Data Center Asset management system that maintains re
 
 DCmd is being developed on the Grails framework, and leverages the technologies of VMWare and LDAP for retrieving software and contact information; Jquery/Javascript, JQgrid, JSON/AJAX for querying and saving to the Database.
 
-![Image of Home Page](aaronvil.github.io/images/DCmdGUIScreenShot.png)
+![Image of Home Page](https://raw.githubusercontent.com/aaronvil/aaronvil.github.io/master/images/DCmdGUIScreenShot.png)
