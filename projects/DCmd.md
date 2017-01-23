@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/uh-logo.png
 title: DCmd
-permalink: projects/dcmd
+permalink: projects/DCmd
 date: 2016
 labels:
   - Database
