@@ -8,7 +8,7 @@ labels:
   - Meteor
 ---
 
-#Meteor Gotchas
+# Meteor Gotchas
 
 For a about a week I have been working with meteor, a framework that I have been learning in my ICS 314 class. In this meteor I have been working on an assignment known as digits, which is pretty much an app that creates a contacts list that displays them in a table. The app so far as it is written can add and edit contacts on the list. Working on the code for digits using a framework has brought up some issues that I constantly have. This isn’t just meteor either, I have had this problem with other frameworks like spring and angular.
 
