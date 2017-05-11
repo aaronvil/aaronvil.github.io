@@ -16,5 +16,4 @@ The problem: UH Manoa has over 200 Registered Independent Organizations, plus ma
 
 Our solution: The Club Hub application will provide a centralized directory for UH Manoa student clubs. UH Manoa students can login to browse a well organized directory of all current student clubs, with brief descriptions, meeting times and locations, URLs to their websites (if any), contact information for officers, and a few select photos.
 
-For more information on the application, you can read more about it at <a href="https://rude-oh-villanueva.github.io/">here</a>
-Also our github repository at <a href="https://github.com/Rude-Oh-Villanueva/Club_Hub">here</a>
+For more information on the application, you can read more about it at <a href="https://rude-oh-villanueva.github.io/">here</a>, also our github repository at <a href="https://github.com/Rude-Oh-Villanueva/Club_Hub">here</a>
