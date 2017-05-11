@@ -24,6 +24,10 @@
         "network": "linkedin",
         "username": "aaronvil",
         "url": "https://www.linkedin.com/in/aaron-villanueva-115128133/"
+      },
+      {
+        "network": "email",
+        "email": "aaronvil@hawaii.edu"
       }
     ]
   },
@@ -55,19 +59,19 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "groovy",
+        "meteor",
+        "angularJS",
+        "Spring-boot",
+        "grails"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
         "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Git/GitHub"
       ]
     }
   ],
